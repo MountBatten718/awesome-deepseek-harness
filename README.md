@@ -186,6 +186,7 @@ Management panel: Settings → Plugins.
 - [huuthuan-nguyen/dsh-tgrep](https://github.com/huuthuan-nguyen/dsh-tgrep) - Ultra-fast trigram-indexed code search powered by Microsoft tgrep, shadowing the built-in grep tool.
 - [dsh-context-imports](https://github.com/ciskonc/dsh-context-imports) - Claude Code-style `@path` imports for AGENTS.md/CLAUDE.md: recursively expands and injects referenced files into model context at session start, with a six-language settings card.
 - [dsh-sieve](https://github.com/Sev7eEn7/sieve) - Filters tool outputs, prunes stale context and discloses skills on demand for DSH 0.2.1-alpha.1.
+- [MountBatten718/dsh-session-handoff](https://github.com/MountBatten718/dsh-session-handoff) - Session handoff: `/handoff` summarizes recent turns with an LLM, opens a new session in the same workspace with the summary as its first message, and can trigger automatically when the context window or session size grows.
 
 ## Memory & Knowledge
 
